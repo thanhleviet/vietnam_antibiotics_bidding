@@ -1,3 +1,5 @@
+A visualization of the cleaned AB data is shown at http://thanhleviet.github.io/ab-bidding.html
+
 1. The raw data were download from:
   + Year 2015-2016:
     + http://vinapharm.com.vn/index.php/news/1088/Tong-hop-ket-qua-trung-thau-cua-cac-Benh-vien-Trung-uong,-So-Y-te-cac-tinh-thanh-pho,-Benh-vien-da-khoa-tinh,-thanh-pho-nam-2016-(29-12-2016).html
